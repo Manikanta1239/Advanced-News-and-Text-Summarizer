@@ -38,6 +38,10 @@ This project is a web-based application developed with Streamlit, designed to su
 2. Enter your text in the provided field and click **Summarize Text**.
 3. View the summary, sentiment analysis, and keywords.
 
+![Screenshot 2024-12-20 103809](https://github.com/user-attachments/assets/b513af47-ad2d-4a38-a6a2-f13bf719087c)
+
+![Screenshot 2024-12-20 103900](https://github.com/user-attachments/assets/01a30429-3d24-4e36-bfe0-adde69516e28)
+
 ### Document Summarization
 
 1. Select **Summarize Document** from the sidebar.
